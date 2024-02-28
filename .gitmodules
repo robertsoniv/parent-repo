@@ -1,0 +1,6 @@
+[submodule "admin"]
+	path = admin
+	url = https://github.com/robertsoniv/submodule-a.git
+[submodule "storefront"]
+	path = storefront
+	url = https://github.com/robertsoniv/submodule-b.git
